@@ -7,7 +7,7 @@ package prj5;
  * have its name and the dataset which can be sorted by CFR or
  * in alphabetical order
  * 
- * @author Brenden Duffy bdeduffy
+ * @author bdeduffy
  * @version 4/21/2022
  */
 public class State {
