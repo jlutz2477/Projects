@@ -1,0 +1,21 @@
+https://www.kaggle.com/code/vhtrieu/aly-6110-spotify-charts-analysis
+
+https://www.kaggle.com/code/kevinkwan/spotify-eda
+
+https://towardsdatascience.com/spotify-data-project-part-1-from-data-retrieval-to-first-insights-f5f819f8
+
+ashwinr@vt.edu
+
+if we want to use billboard to start: https://www.billboard.com/music/chart-beat/10-times-movies-tv-shows-sent-decades-old-songs-back-onto-the-hot-100-kate-bush-queen-more-1235083441/
+
+This is the list of playlists:
+2008: https://open.spotify.com/playlist/37i9dQZF1DWYuGZUE4XQXm?si=00727ff42b5a4826
+2009: https://open.spotify.com/playlist/37i9dQZF1DX4UkKv8ED8jp?si=3f24f53ccbdf4512
+2010: https://open.spotify.com/playlist/37i9dQZF1DXc6IFF23C9jj?si=cb9e8fdf3d7f4c0c
+2011: https://open.spotify.com/playlist/37i9dQZF1DXcagnSNtrGuJ?si=53960ef314664e7a
+2012: https://open.spotify.com/playlist/37i9dQZF1DX0yEZaMOXna3?si=6aaa12f759eb41a7
+2013: https://open.spotify.com/playlist/37i9dQZF1DX3Sp0P28SIer?si=fc12adfe75444714
+2014: https://open.spotify.com/playlist/37i9dQZF1DX0h0QnLkMBl4?si=cc89e28b013e4a80
+2015: https://open.spotify.com/playlist/37i9dQZF1DX9ukdrXQLJGZ?si=8bfbd597717f4c45
+2016: https://open.spotify.com/playlist/37i9dQZF1DX8XZ6AUo9R4R?si=c312d229e63f41b5
+All Time: https://open.spotify.com/playlist/5ABHKGoOzxkaa28ttQV9sE
