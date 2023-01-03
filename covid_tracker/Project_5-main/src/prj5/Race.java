@@ -2,12 +2,6 @@ package prj5;
 
 import java.text.DecimalFormat;
 
-//Virginia Tech Honor Code Pledge:
-//f
-//As a Hokie, I will conduct myself with honor and integrity at all times.
-//I will not lie, cheat, or steal, nor will I accept the actions of those who
-//do.
-//-- Brenden Duffy bdeduffy
 
 /**
 * Race class, this class will be used to categorize the datapoints read
