@@ -10,7 +10,7 @@ import java.text.DecimalFormat;
 * within a linked list to display to the user races with their CFR's by
 * total CFR and alphabetical order
 * 
-* @author Brenden Duffy bdeduffy
+* @author bdeduffy
 * @version 4/20/2022
 */
 
