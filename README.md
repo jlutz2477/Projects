@@ -1,7 +1,7 @@
 # Projects
 ## analysisR
 ### djdjd]
-## covidTracker
+## covid_tracker
 ### djjdd
 ## jdjjd
 ### snfkkg
