@@ -1,6 +1,6 @@
 # Projects
-## analysisR
-#### djdjd]
+## appsR
+#### Small interactive web apps made in R using the shiny R package
 ## covid_tracker
 #### Group project on covid cases and deaths by state and ethnic group
 ## dataUnscramble
