@@ -2,7 +2,7 @@
 ## analysisR
 #### djdjd]
 ## covid_tracker
-#### djjdd
+#### Group project on covid cases and deaths by state and ethnic group
 ## dataUnscramble
 #### snfkkg
 ## musical_revival
