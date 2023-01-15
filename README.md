@@ -1,8 +1,6 @@
 # Projects
 ## appsR
 #### Small interactive web apps made in R using the shiny R package
-## dataUnscramble
-#### snfkkg
 ## musical_revival
 #### Group Project on top trending music genres using Spotify data
 ## smallAnalysis
